@@ -7,7 +7,7 @@ export default function Map() {
     const t = useTranslations('location');
 
     return (
-        <section id="location" className="section-padding bg-black">
+        <section id="location" className="section-padding">
             <div className="container-custom">
                 <h2 className="font-display text-3xl md:text-4xl font-bold text-center mb-12 text-gradient">
                     {t('title')}

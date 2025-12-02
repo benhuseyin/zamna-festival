@@ -14,7 +14,7 @@ export default function About() {
     const sections = content.split('\n\n');
 
     return (
-        <section ref={ref} className="section-padding bg-gradient-to-b from-black to-black/95">
+        <section ref={ref} className="section-padding">
             <div className="container-custom">
                 <motion.div
                     initial={{ opacity: 0, y: 30 }}

@@ -28,7 +28,7 @@ export default function Tabs() {
     };
 
     return (
-        <section id="info" className="section-padding bg-black">
+        <section id="info" className="section-padding">
             <div className="container-custom">
                 <div className="glass-strong rounded-2xl p-6 md:p-8">
                     {/* Tab buttons */}

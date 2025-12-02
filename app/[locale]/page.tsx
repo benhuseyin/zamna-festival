@@ -5,15 +5,20 @@ import TicketSelector from '@/components/TicketSelector';
 import Map from '@/components/Map';
 import About from '@/components/About';
 import Footer from '@/components/Footer';
+import HeroImage from '@/assets/images/hero.jpeg';
 
 export default function HomePage() {
     return (
-        <main className="min-h-screen bg-black text-white">
+        <main
+            className="min-h-screen text-white bg-cover bg-center bg-no-repeat bg-scroll md:bg-fixed"
+            style={{
+                backgroundImage: `linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(${HeroImage.src})`
+            }}
+        >
             <Header />
             <Hero />
             <TicketSelector />
             <Tabs />
-
             <Map />
             <About />
             <Footer />

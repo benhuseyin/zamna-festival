@@ -54,7 +54,7 @@ export default function TicketSelector() {
     }, 0);
 
     return (
-        <section id="tickets" className="section-padding bg-black">
+        <section id="tickets" className="section-padding">
             <div className="container-custom">
                 <h2 className="font-display text-3xl md:text-4xl font-bold text-center mb-12 text-gradient">
                     {t('title')}

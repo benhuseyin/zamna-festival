@@ -1,7 +1,7 @@
 'use client';
 
 import { useTranslations } from 'next-intl';
-import Image from 'next/image';
+
 import { motion } from 'framer-motion';
 import HeroImage from '@/assets/images/hero.jpeg';
 
@@ -16,19 +16,7 @@ export default function Hero() {
 
     return (
         <section id="home" className="relative min-h-screen flex items-center justify-center overflow-hidden">
-            {/* Background Image */}
-            <div className="absolute inset-0 z-0">
-                <Image
-                    src={HeroImage}
-                    alt="ZAMNA x MO Homecoming 2026"
-                    fill
-                    className="object-cover"
-                    priority
-                    quality={90}
-                />
-                {/* Dark overlay */}
-                <div className="absolute inset-0 bg-black/50" />
-            </div>
+
 
             {/* Content */}
             <div className="relative z-10 container-custom py-32">
