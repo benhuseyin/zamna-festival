@@ -18,6 +18,14 @@ export const metadata = {
     title: 'ZAMNA x MO Homecoming 2026 | Life Park Istanbul',
     description: 'Mahmut Orhan\'s 2026 homecoming project brings together the phenomenal Zamna Festival from Mexico at Istanbul Life Park on June 6-7. Get your tickets now!',
     keywords: 'ZAMNA, Mahmut Orhan, festival, Istanbul, Life Park, electronic music, Zamna Festival',
+    robots: {
+        index: false,
+        follow: false,
+        googleBot: {
+            index: false,
+            follow: false,
+        },
+    },
     openGraph: {
         title: 'ZAMNA x MO Homecoming 2026',
         description: 'June 6-7, 2026 at Life Park Istanbul',
