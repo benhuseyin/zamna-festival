@@ -1,0 +1,132 @@
+{
+    "nav": {
+        "home": "Ana Sayfa",
+        "tickets": "Biletler",
+        "lineup": "Sanatçılar",
+        "info": "Bilgi",
+        "buy": "Satın Al"
+    },
+    "hero": {
+        "title": "ZAMNA x MO Homecoming 2026",
+        "subtitle": "Mahmut Orhan 2026 eve dönüş projesinde, Meksika'dan çıkan fenomen Zamna Festival ile 6-7 Haziran İstanbul Life Park'ta bir araya geliyor.",
+        "ctaPrimary": "Satın Al",
+        "ctaSecondary": "Konum — Life Park / İSTANBUL"
+    },
+    "tabs": {
+        "eventInfo": "Etkinlik Bilgileri",
+        "eventRules": "Etkinlik Kuralları",
+        "pricing": "Fiyat Kategorisi",
+        "artists": "Sanatçılar"
+    },
+    "eventInfo": {
+        "content": "Mahmut Orhan 2026 eve dönüş projesinde, Meksika'dan çıkan fenomen Zamna Festival ile 6-7 Haziran İstanbul Life Park'ta bir araya geliyor.\n\nTürkiye'de ilk kez festival formatında gerçekleşecek olan Zamna, Mahmut Orhan ile birlikteliğinde 2 günlük bir müzik ve dans ziyafeti sunacak. 30'un üzerinde sanatçı ile bir araya gelinecek festivalin öncelikli bilet satış listesinde yer almak istiyorsan\n\n2026'nın en çok konuşulacak olan buluşması için yerini al.\n\nZAMNA x MO Homecoming 2026 biletleri iTicket.com.tr'de!"
+    },
+    "eventRules": {
+        "rules": [
+            "Dance Floor bileti, festivalin tüm genel alanlarına erişim sağlar. İki gün boyunca festivalin enerjisini ana sahneden, geniş izleme alanlarından ve açık havanın ritminden hissetmek isteyen katılımcılar için idealdir.",
+            "Dance Floor Biletine Dahil Olmayanlar: Backstage ve VIP kategori biletlerin özel servis alanlarına ve girişlerine erişim VERMEZ.",
+            "Backstage bileti seni festivalin kalbine taşır. Backstage kategori biletine dahil olanlar: Dance floor ve tüm genel alanlara erişim, sahne üzeri backstage alana erişim, ayrı backstage bar (hızlı servis), ayrı backstage WC, sahne arkası operasyonuna yakın görünürlük.",
+            "Backstage Biletine Dahil Olmayanlar: VIP servislere erişimi VERMEZ.",
+            "VIP bileti; özel giriş, üst düzey konfor, premium bar servisleri ve sahneye en yakın izleme platformu ile festivalin en ayrıcalıklı deneyimini sunar. VIP Biletine Dahil Olmayanlar: Sanatçı, teknik ve operasyon alanlarına erişim VERMEZ.",
+            "Etkinlikte 18 yaş sınırı vardır. 18 yaş ve üzeri tüm Katılımcılar bilete tabiidir.",
+            "Etkinlik alanındaki ses düzenleri geçici duyma problemlerine yol açabilir.",
+            "Etkinlik alanındaki ışık düzenleri geçici göz rahatsızlıklarına neden olabilir.",
+            "Etkinlik süresince tüm Katılımcıların biletlerini yanlarında bulundurması gerekmektedir.",
+            "Etkinlik alanına giriş yapan Katılımcıların alandan çıkış yapmaları halinde yeni bilet satın almaları gerekecektir.",
+            "Etkinlik biletleri sadece organizasyon sahibi tarafından belirlenen resmi satış noktalarından alınmalıdır. Resmi satış noktalarından alınmayan biletlerin sahiplerini Etkinlik alanına almama hakkına sahiptir.",
+            "Organizasyon sahibi etkinlik bilet bedelini iade etmek koşuluyla uygun görmedikleri kişiyi etkinlik mekanına almama hakkına sahiptir.",
+            "Yiyecek, içecek ve açık sigara paketleri etkinlik alanına alınmayacaktır.",
+            "Etkinlik alanına evcil hayvan kabul edilememektedir.",
+            "Etkinlik alanı içinde özel eşyalarınızı yanınızdan ayırmamanız gerekmektedir. Tüm özel eşyılarınızın sorumluluğu Katılımcıya aittir.",
+            "Etkinlik alanına yanıcı, patlayıcı (deodorant, sprey, parfüm vb. gibi), parlayıcı, kesici ve delici olarak kullanılabilecek her türlü alet ve lazer imleci ile girmek yasaktır.",
+            "Etkinlik süresince kayıt yapmak kesinlikle yasaktır. Selfie Stick ve GoPro çubukları vb. materyaller alınmayacaktır.",
+            "Etkinlik'e katılan kişilerin fotoğraf ve video çekimlerinin tanıtım materyallerinde kullanım hakkı organizatöre ait olup Katılımcı Etkinlik'e katılarak bu hakkın kullanılmasını kabul etmektedir.",
+            "Organizatörün programda ve bilet fiyatlarında değişiklik yapma hakkı saklıdır.",
+            "Açık tütün ve tütün mamüllerinin etkinliğe girişi yasaktır."
+        ]
+    },
+    "pricing": {
+        "categoryName": "Fiyat Kategorisi Adı",
+        "categories": [
+            {
+                "name": "Limitli Ön Satış Dance Floor",
+                "price": 2500
+            },
+            {
+                "name": "Limitli Ön Satış Backstage",
+                "price": 5000
+            },
+            {
+                "name": "Limitli Ön Satış VIP",
+                "price": 10000
+            }
+        ]
+    },
+    "artists": {
+        "comingSoon": "Tam liste yakında açıklanacaktır.",
+        "placeholder": "Sanatçı"
+    },
+    "tickets": {
+        "title": "Bilet Seçimi",
+        "eventName": "ZAMNA x MO Homecoming 2026 - Kombine",
+        "venue": "Life Park / İSTANBUL",
+        "dateLabel": "Tarih",
+        "dateValue": "Cmt 6.06.2026 17:00 - Pzt 8.06.2026 00:00",
+        "priceLabel": "Fiyat",
+        "priceRange": "2500 - 10000 ₺",
+        "danceFloor": "Genel Alan (Dance Floor)",
+        "backstage": "Backstage",
+        "vip": "VIP",
+        "quantity": "Adet",
+        "unitPrice": "Birim Fiyat",
+        "subtotal": "Ara Toplam",
+        "addToCart": "Sepete Ekle",
+        "selectTickets": "Lütfen bilet seçiniz"
+    },
+    "cart": {
+        "title": "Sepetim",
+        "empty": "Sepetiniz boş",
+        "subtotal": "Ara Toplam",
+        "serviceFee": "Hizmet Bedeli",
+        "total": "Toplam",
+        "checkout": "Onayla",
+        "continueShopping": "Alışverişe Devam Et",
+        "remove": "Kaldır"
+    },
+    "checkout": {
+        "title": "Ödeme",
+        "personalInfo": "Kişisel Bilgiler",
+        "name": "Ad Soyad",
+        "email": "E-posta",
+        "phone": "Telefon",
+        "orderSummary": "Sipariş Özeti",
+        "paymentMethod": "Ödeme Yöntemi",
+        "creditCard": "Kredi Kartı",
+        "completeOrder": "Siparişi Tamamla",
+        "required": "Bu alan zorunludur",
+        "invalidEmail": "Geçerli bir e-posta adresi giriniz",
+        "invalidPhone": "Geçerli bir telefon numarası giriniz"
+    },
+    "confirmation": {
+        "title": "Siparişiniz Alındı!",
+        "thankYou": "Teşekkür ederiz!",
+        "orderNumber": "Sipariş Numarası",
+        "emailSent": "Sipariş detayları e-posta adresinize gönderilmiştir.",
+        "backToHome": "Ana Sayfaya Dön"
+    },
+    "location": {
+        "title": "Konum",
+        "venue": "Life Park",
+        "city": "İSTANBUL",
+        "address": "Life Park, İstanbul",
+        "dates": "6-7 Haziran 2026"
+    },
+    "about": {
+        "title": "Etkinlik Hakkında",
+        "content": "Mahmut Orhan x Zamna Festivali 2026 – Life Park İstanbul\n\nGlobal elektronik müzik ikonlarından Mahmut Orhan, Meksika'nın dünya çapında tanınan festivali Zamna ile ilk kez Türkiye'de festival formatında bir araya gelecek. Bu özel buluşma, 6–7 Haziran 2026'da Life Park İstanbul'da müzikseverlere iki gün boyunca benzersiz bir açık hava deneyimi sunacak.\n\nZamna Festivali İlk Kez Türkiye'de\n\nZamna, Meksika'nın Tulum bölgesinde doğan ve dünya çapında büyük bir takipçi kitlesine ulaşan prestijli bir elektronik müzik festivalidir. 2026'da ilk kez Türkiye'ye getirilen Zamna deneyimi; İstanbul'un dinamik enerjisi ve Life Park'ın doğal atmosferiyle birleşerek unutulmaz bir festival atmosferi yaratıyor.\n\nTürkiye'nin En Büyük Elektronik Müzik Buluşmasına Hazır Ol\n\nMahmut Orhan x Zamna Festivali, İstanbul'da düzenlenecek en iddialı etkinliklerden biri olarak konumlanıyor. Zamna'nın global festival kültürü, Mahmut Orhan'ın özgün sanatsal yaklaşımı ve Life Park'ın geniş alan avantajı ile 2026 yılına damga vurmaya hazırlanıyor. Bu eşsiz deneyimde yer alabilmek için hemen ön satış formunu doldurabilir, 6–7 Haziran 2026'da Life Park İstanbul'da gerçekleşecek bu büyük buluşmaya ilk adımı atabilirsiniz.\n\nMahmut Orhan x Zamna Biletleri Ne Zaman Satışa Çıkıyor?\n\nMahmut Orhan x Zamna Festivali 2026 için biletler, sınırlı kontenjanla 1 Aralık Pazartesi günü saat 12.00'de ön satışa açılacaktır. Ön satış listesine kayıt olan kullanıcılar, biletleri genel satışa çıkmadan önce satın alma fırsatına sahip olacak ve festivalde en avantajlı fiyat seçeneklerinden yararlanabilecek."
+    },
+    "footer": {
+        "rights": "© 2026 ZAMNA x MO Homecoming. Tüm hakları saklıdır.",
+        "organizer": "Organizatör: iTicket"
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "nav": {
+        "home": "Home",
+        "tickets": "Tickets",
+        "lineup": "Lineup",
+        "info": "Info",
+        "buy": "Buy"
+    },
+    "hero": {
+        "title": "ZAMNA x MO Homecoming 2026",
+        "subtitle": "Mahmut Orhan's 2026 homecoming project brings together the phenomenal Zamna Festival from Mexico at Istanbul Life Park on June 6-7.",
+        "ctaPrimary": "Buy Tickets",
+        "ctaSecondary": "Location — Life Park / ISTANBUL"
+    },
+    "tabs": {
+        "eventInfo": "Event Information",
+        "eventRules": "Event Rules",
+        "pricing": "Price Categories",
+        "artists": "Artists"
+    },
+    "eventInfo": {
+        "content": "Mahmut Orhan's 2026 homecoming project brings together the phenomenal Zamna Festival from Mexico at Istanbul Life Park on June 6-7.\n\nZamna, taking place in Turkey for the first time in festival format, will offer a 2-day music and dance feast in partnership with Mahmut Orhan. If you want to be on the priority ticket sales list for the festival featuring over 30 artists,\n\nSecure your spot for 2026's most talked-about gathering.\n\nZAMNA x MO Homecoming 2026 tickets are available at iTicket.com.tr!"
+    },
+    "eventRules": {
+        "rules": [
+            "Dance Floor ticket provides access to all general areas of the festival. Ideal for participants who want to feel the festival's energy from the main stage, wide viewing areas, and the rhythm of the open air for two days.",
+            "Dance Floor Ticket Does NOT Include: Access to Backstage and VIP category ticket special service areas and entrances.",
+            "Backstage ticket takes you to the heart of the festival. Backstage category ticket includes: Access to dance floor and all general areas, access to on-stage backstage area, separate backstage bar (fast service), separate backstage WC, close visibility to backstage operations.",
+            "Backstage Ticket Does NOT Include: Access to VIP services.",
+            "VIP ticket offers the most privileged festival experience with special entrance, top-level comfort, premium bar services, and the closest viewing platform to the stage. VIP Ticket Does NOT Include: Access to artist, technical, and operations areas.",
+            "The event has an 18+ age restriction. All participants aged 18 and over require a ticket.",
+            "Sound arrangements at the event venue may cause temporary hearing problems.",
+            "Lighting arrangements at the event venue may cause temporary eye discomfort.",
+            "All participants must keep their tickets with them throughout the event.",
+            "Participants who exit the event area will need to purchase a new ticket.",
+            "Event tickets must only be purchased from official sales points designated by the organizer. The organizer reserves the right to deny entry to holders of tickets not purchased from official sales points.",
+            "The organizer reserves the right to deny entry to any person they deem unsuitable, provided they refund the ticket price.",
+            "Food, beverages, and open cigarette packs will not be allowed into the event area.",
+            "Pets are not allowed in the event area.",
+            "You must not leave your personal belongings unattended within the event area. You are responsible for all your personal belongings.",
+            "Entry to the event area with any flammable, explosive (deodorant, spray, perfume, etc.), incendiary, cutting, and piercing tools and laser pointers is prohibited.",
+            "Recording during the event is strictly prohibited. Selfie sticks, GoPro sticks, and similar materials will not be allowed.",
+            "The organizer owns the rights to use photographs and video recordings of event participants in promotional materials, and participants accept this right by attending the event.",
+            "The organizer reserves the right to make changes to the program and ticket prices.",
+            "Entry of loose tobacco and tobacco products to the event is prohibited."
+        ]
+    },
+    "pricing": {
+        "categoryName": "Price Category Name",
+        "categories": [
+            {
+                "name": "Limited Pre-Sale Dance Floor",
+                "price": 2500
+            },
+            {
+                "name": "Limited Pre-Sale Backstage",
+                "price": 5000
+            },
+            {
+                "name": "Limited Pre-Sale VIP",
+                "price": 10000
+            }
+        ]
+    },
+    "artists": {
+        "comingSoon": "Full lineup coming soon.",
+        "placeholder": "Artist"
+    },
+    "tickets": {
+        "title": "Ticket Selection",
+        "eventName": "ZAMNA x MO Homecoming 2026 - Combined",
+        "venue": "Life Park / ISTANBUL",
+        "dateLabel": "Date",
+        "dateValue": "Sat 06.06.2026 17:00 - Mon 08.06.2026 00:00",
+        "priceLabel": "Price",
+        "priceRange": "2500 - 10000 ₺",
+        "danceFloor": "General Area (Dance Floor)",
+        "backstage": "Backstage",
+        "vip": "VIP",
+        "quantity": "Quantity",
+        "unitPrice": "Unit Price",
+        "subtotal": "Subtotal",
+        "addToCart": "Add to Cart",
+        "selectTickets": "Please select tickets"
+    },
+    "cart": {
+        "title": "My Cart",
+        "empty": "Your cart is empty",
+        "subtotal": "Subtotal",
+        "serviceFee": "Service Fee",
+        "total": "Total",
+        "checkout": "Checkout",
+        "continueShopping": "Continue Shopping",
+        "remove": "Remove"
+    },
+    "checkout": {
+        "title": "Checkout",
+        "personalInfo": "Personal Information",
+        "name": "Full Name",
+        "email": "Email",
+        "phone": "Phone",
+        "orderSummary": "Order Summary",
+        "paymentMethod": "Payment Method",
+        "creditCard": "Credit Card",
+        "completeOrder": "Complete Order",
+        "required": "This field is required",
+        "invalidEmail": "Please enter a valid email address",
+        "invalidPhone": "Please enter a valid phone number"
+    },
+    "confirmation": {
+        "title": "Order Received!",
+        "thankYou": "Thank you!",
+        "orderNumber": "Order Number",
+        "emailSent": "Order details have been sent to your email address.",
+        "backToHome": "Back to Home"
+    },
+    "location": {
+        "title": "Location",
+        "venue": "Life Park",
+        "city": "ISTANBUL",
+        "address": "Life Park, Istanbul",
+        "dates": "June 6-7, 2026"
+    },
+    "about": {
+        "title": "About the Event",
+        "content": "Mahmut Orhan x Zamna Festival 2026 – Life Park Istanbul\n\nGlobal electronic music icon Mahmut Orhan will unite with Mexico's world-renowned Zamna Festival for the first time in Turkey in festival format. This special gathering will offer music lovers a unique open-air experience over two days at Life Park Istanbul on June 6-7, 2026.\n\nZamna Festival in Turkey for the First Time\n\nZamna is a prestigious electronic music festival born in Mexico's Tulum region that has reached a massive global following. The Zamna experience, brought to Turkey for the first time in 2026, creates an unforgettable festival atmosphere by combining Istanbul's dynamic energy with Life Park's natural setting.\n\nGet Ready for Turkey's Biggest Electronic Music Gathering\n\nMahmut Orhan x Zamna Festival is positioned as one of Istanbul's most ambitious events. With Zamna's global festival culture, Mahmut Orhan's unique artistic approach, and Life Park's spacious venue advantage, it's ready to make its mark on 2026. To be part of this unique experience, you can fill out the pre-sale form now and take the first step toward this grand gathering at Life Park Istanbul on June 6-7, 2026.\n\nWhen Do Mahmut Orhan x Zamna Tickets Go on Sale?\n\nTickets for Mahmut Orhan x Zamna Festival 2026 will go on pre-sale with limited capacity on Monday, December 1st at 12:00 PM. Users registered on the pre-sale list will have the opportunity to purchase tickets before they go on general sale and benefit from the festival's most advantageous pricing options."
+    },
+    "footer": {
+        "rights": "© 2026 ZAMNA x MO Homecoming. All rights reserved.",
+        "organizer": "Organizer: iTicket"
+    }
+}
