@@ -1,5 +1,5 @@
 import { NextIntlClientProvider } from 'next-intl';
-import { getMessages } from 'next-intl/server';
+import { getMessages, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import { ReactNode } from 'react';
 import { CartProvider } from '@/lib/cart-context';
@@ -21,6 +21,9 @@ export default async function LocaleLayout({
     if (!locales.includes(locale)) {
         notFound();
     }
+
+    // Enable static rendering
+    setRequestLocale(locale);
 
     const messages = await getMessages();
 
