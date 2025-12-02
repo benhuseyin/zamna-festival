@@ -14,7 +14,7 @@ export default function About() {
     const sections = content.split('\n\n');
 
     return (
-        <section ref={ref} className="section-padding">
+        <section ref={ref} className="section-padding" id='about'>
             <div className="container-custom">
                 <motion.div
                     initial={{ opacity: 0, y: 30 }}

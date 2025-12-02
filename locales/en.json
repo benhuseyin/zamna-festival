@@ -2,8 +2,9 @@
     "nav": {
         "home": "Home",
         "tickets": "Tickets",
-        "lineup": "Lineup",
+        "location": "Location",
         "info": "Info",
+        "about": "About",
         "buy": "Buy"
     },
     "hero": {

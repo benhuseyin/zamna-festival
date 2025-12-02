@@ -50,16 +50,22 @@ export default function Header() {
                             {t('tickets')}
                         </button>
                         <button
-                            onClick={() => scrollToSection('lineup')}
-                            className="text-sm font-medium hover:text-accent transition-colors"
-                        >
-                            {t('lineup')}
-                        </button>
-                        <button
                             onClick={() => scrollToSection('info')}
                             className="text-sm font-medium hover:text-accent transition-colors"
                         >
                             {t('info')}
+                        </button>
+                        <button
+                            onClick={() => scrollToSection('location')}
+                            className="text-sm font-medium hover:text-accent transition-colors"
+                        >
+                            {t('location')}
+                        </button>
+                        <button
+                            onClick={() => scrollToSection('about')}
+                            className="text-sm font-medium hover:text-accent transition-colors"
+                        >
+                            {t('about')}
                         </button>
                     </nav>
 
